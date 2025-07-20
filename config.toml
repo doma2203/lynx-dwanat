@@ -4,6 +4,7 @@ title = 'Dominika Wanat'
 theme = 'lynx'
 enableEmoji = true
 disableKinds = ["taxonomy","term"]
+relativeurls = true
 
 [params.author]
     name = "Dominika Wanat"
