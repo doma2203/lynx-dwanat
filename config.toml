@@ -1,8 +1,14 @@
+baseURL = "https://uni.dwanat.eu"
 languageCode = 'en-us'
 title = 'Dominika Wanat'
 theme = 'lynx'
 enableEmoji = true
 disableKinds = ["taxonomy","term"]
+timeZone = "Europe/Warsaw"
+relativeURLs = false
+enableGitInfo = true
+staticDir2 = "static"
+
 
 [params.author]
     name = "Dominika Wanat"
