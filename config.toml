@@ -1,4 +1,4 @@
-baseURL = 'http://uni.dwanat.eu/'
+baseURL = 'https://uni.dwanat.eu/'
 languageCode = 'en-us'
 title = 'Dominika Wanat'
 theme = 'lynx'
