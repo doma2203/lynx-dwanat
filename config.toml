@@ -10,7 +10,7 @@ disableKinds = ["taxonomy","term"]
     headline = "PhD student | QoE | AGH University"
     image = "avatar.png"
     links = [
-        {link={href="",text="Full paper"}},
+        {link={href="",text="Full paper",icon="file-solid"}},
         {link={href="",text="Dataset",icon="database-solid"}},
         { email = "mailto:wanat@agh.edu.pl" },
         { orcid = "https://orcid.org/0000-0002-8790-5114"},
