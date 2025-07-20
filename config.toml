@@ -1,0 +1,19 @@
+baseURL = 'http://uni.dwanat.eu/'
+languageCode = 'en-us'
+title = 'Dominika Wanat'
+theme = 'lynx'
+enableEmoji = true
+disableKinds = ["taxonomy","term"]
+
+[params.author]
+    name = "Dominika Wanat"
+    headline = "PhD student | QoE | AGH University"
+    image = "avatar.png"
+    links = [
+        {link={href="",text="Full paper"}},
+        {link={href="",text="Dataset",icon="database-solid"}},
+        { email = "mailto:wanat@agh.edu.pl" },
+        { orcid = "https://orcid.org/0000-0002-8790-5114"},
+        { linkedin = "https://linkedin.com/in/dwanat"},
+        { github="https://github.com/doma2203"}
+    ]
