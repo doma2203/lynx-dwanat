@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:oneBooking-1.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20251028T050000Z
+DTEND;TZID=UTC:20251028T062000Z
+SUMMARY:Flight LH1627: KRK - MUC
+DESCRIPTION:Booking reference: 7TVMPU\n\nFrom Krakow (John Paul II Balice)\nDeparture time: 06:00\n\nTo Munich (Munich International, Terminal 2)\nArrival time: 07:20\n\nCabin: Economy\n\nWould you like to change your flight or book additional services?\nSimply click on \"My bookings\" in your customer account.\n\nwww.lufthansa.com/?utm_source=addtocalendar&utm_medium=referral
+LOCATION:Krakow (John Paul II Balice)
+UID:7TVMPU_0
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20251028T073500Z
+DTEND;TZID=UTC:20251028T100500Z
+SUMMARY:Flight LH2516: MUC - DUB
+DESCRIPTION:Booking reference: 7TVMPU\n\nFrom Munich (Munich International, Terminal 2)\nDeparture time: 08:35\n\nTo Dublin (Dublin International, Terminal 1)\nArrival time: 10:05\n\nCabin: Economy\n\nWould you like to change your flight or book additional services?\nSimply click on \"My bookings\" in your customer account.\n\nwww.lufthansa.com/?utm_source=addtocalendar&utm_medium=referral
+LOCATION:Munich (Munich International, Terminal 2)
+UID:7TVMPU_1
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20251101T105000Z
+DTEND;TZID=UTC:20251101T130500Z
+SUMMARY:Flight LH2517: DUB - MUC
+DESCRIPTION:Booking reference: 7TVMPU\n\nFrom Dublin (Dublin International, Terminal 1)\nDeparture time: 10:50\n\nTo Munich (Munich International, Terminal 2)\nArrival time: 14:05\n\nCabin: Economy\n\nWould you like to change your flight or book additional services?\nSimply click on \"My bookings\" in your customer account.\n\nwww.lufthansa.com/?utm_source=addtocalendar&utm_medium=referral
+LOCATION:Dublin (Dublin International, Terminal 1)
+UID:7TVMPU_2
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20251101T143000Z
+DTEND;TZID=UTC:20251101T155500Z
+SUMMARY:Flight LH1624: MUC - KRK
+DESCRIPTION:Booking reference: 7TVMPU\n\nFrom Munich (Munich International, Terminal 2)\nDeparture time: 15:30\n\nTo Krakow (John Paul II Balice)\nArrival time: 16:55\n\nCabin: Economy\n\nWould you like to change your flight or book additional services?\nSimply click on \"My bookings\" in your customer account.\n\nwww.lufthansa.com/?utm_source=addtocalendar&utm_medium=referral
+LOCATION:Munich (Munich International, Terminal 2)
+UID:7TVMPU_3
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
