@@ -17,8 +17,7 @@ staticDir2 = "static"
     links = [
         # {link={href="",text="Full paper",icon="file-solid"}},
         # {link={href="",text="Dataset",icon="database-solid"}},
-
-        { file = {href="https://doi.org/10.15199/59.2025.4.113",text="KRiT 2025"}},
+        { file = {href="https://doi.org/10.15199/59.2025.4.113",text=":poland: KRiT 2025"}},
         #  { handshake={text="ACMMM '25",href="https://acmmm2025.org"}},
         { email = "mailto:wanat@agh.edu.pl" },
         { orcid = "https://orcid.org/0000-0002-8790-5114"},
