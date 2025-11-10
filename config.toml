@@ -17,7 +17,7 @@ staticDir2 = "static"
     links = [
         # {link={href="",text="Full paper",icon="file-solid"}},
         # {link={href="",text="Dataset",icon="database-solid"}},
-         { handshake={text="Let's meet at the ACMMM'25!",href="https://whova.com/embedded/session/sa54pNCpHUFy1OTIEiEzceQu5kPuSm3dYlEnqAJdV4o%3D/4938778/?widget=primary"}},
+        #  { handshake={text="Let's meet at the ACMMM'25!",href="https://whova.com/embedded/session/sa54pNCpHUFy1OTIEiEzceQu5kPuSm3dYlEnqAJdV4o%3D/4938778/?widget=primary"}},
          {file= {href="https://dl.acm.org/doi/10.1145/3746027.3755852",text="ACMMM'25 paper"}},
         { file = {href="https://doi.org/10.15199/59.2025.4.113",text=":poland: KRiT 2025"}},
         # { presentation = {href="https://doi.org/10.15199/59.2025.4.113",text=":poland: KRiT 2025"}},
